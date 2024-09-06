@@ -1,0 +1,22 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "FQHA9FN6J6.com.sportsmillions.app",
+          "FQHA9FN6J6.com.sportsmillions.pickem.app"
+        ],
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "FQHA9FN6J6.com.sportsmillions.app",
+      "FQHA9FN6J6.com.sportsmillions.pickem.app"
+    ]
+  }
+}
