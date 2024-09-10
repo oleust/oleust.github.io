@@ -1,14 +1,27 @@
 {
   "applinks": {
-    "apps": [],
+    "apps": [
+      "FQHA9FN6J6.com.sportsmillions.pickem.app"
+    ],
     "details": [
       {
+        "comment": "Pickem app",
         "appIDs": [
-          "FQHA9FN6J6.com.sportsmillions.app",
           "FQHA9FN6J6.com.sportsmillions.pickem.app"
         ],
-        "paths": [
-          "*"
+        "components": [
+          {
+            "/": "/share-picks/*",
+            "?": {
+              "code": "*"
+            }
+          },
+          {
+            "/": "/v1/confirm-email/*",
+            "?": {
+              "token": "*"
+            }
+          }
         ]
       }
     ]
