@@ -14,10 +14,7 @@
             }
           },
           {
-            "/": "/v1/confirm-email/*",
-            "?": {
-              "token": "*"
-            }
+            "/": "/v1/confirm-email/*"
           }
         ]
       }
