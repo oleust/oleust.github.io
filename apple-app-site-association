@@ -2,6 +2,26 @@
   "applinks": {
     "details": [
       {
+        "comment": "Blitzem app",
+        "appIDs": [
+          "FQHA9FN6J6.com.sportsmillions.app"
+        ],
+        "components": [
+          {
+            "/": "/blitzem/*"
+          },
+          {
+            "/": "/social-casino/*"
+          },
+          {
+            "/": "/v1/confirm-email/*"
+          },
+          {
+            "/": "/promotions/*"
+          }
+        ]
+      },
+      {
         "comment": "Pickem app",
         "appIDs": [
           "FQHA9FN6J6.com.sportsmillions.pickem.app"
@@ -12,20 +32,6 @@
             "?": {
               "code": "*"
             }
-          },
-          {
-            "/": "/v1/confirm-email/*"
-          }
-        ]
-      },
-      {
-        "comment": "Blitzem app",
-        "appIDs": [
-          "FQHA9FN6J6.com.sportsmillions.app"
-        ],
-        "components": [
-          {
-            "/": "/blitzem/*"
           },
           {
             "/": "/v1/confirm-email/*"
