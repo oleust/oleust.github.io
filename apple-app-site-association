@@ -28,10 +28,7 @@
         ],
         "components": [
           {
-            "/": "/share-picks/*",
-            "?": {
-              "code": "*"
-            }
+            "/": "/pick-em/*"
           },
           {
             "/": "/v1/confirm-email/*"
