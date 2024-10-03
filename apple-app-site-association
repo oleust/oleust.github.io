@@ -34,13 +34,25 @@
             "/": "/v1/confirm-email/*"
           }
         ]
+      },
+      {
+        "comment": "Playfame app",
+        "appIDs": [
+          "RKDXQ54Q28.com.playfame.app"
+        ],
+        "components": [
+          {
+            "/": "/v1/confirm-email/*"
+          }
+        ]
       }
     ]
   },
   "webcredentials": {
     "apps": [
       "FQHA9FN6J6.com.sportsmillions.app",
-      "FQHA9FN6J6.com.sportsmillions.pickem.app"
+      "FQHA9FN6J6.com.sportsmillions.pickem.app",
+      "RKDXQ54Q28.com.playfame.app"
     ]
   }
 }
