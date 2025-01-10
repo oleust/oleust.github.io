@@ -43,6 +43,45 @@
         "components": [
           {
             "/": "/v1/confirm-email/*"
+          },
+          {
+            "/": "/lobby"
+          },
+          {
+            "/": "/gold-coins"
+          },
+          {
+            "/": "/promotions/*"
+          },
+          {
+            "/": "/my-profile"
+          },
+          {
+            "/": "/hc"
+          },
+          {
+            "/": "/slots/*"
+          },
+          {
+            "/": "/recommended"
+          },
+          {
+            "/": "/live-dealer"
+          },
+          {
+            "/": "/privacy"
+          },
+          {
+            "/": "/player-safety"
+          },
+          {
+            "/": "/terms-of-service"
+          },
+          {
+            "/": "/sweepstakes-rules"
+          },
+          {
+            "/": "/about-us"
           }
         ]
       }
