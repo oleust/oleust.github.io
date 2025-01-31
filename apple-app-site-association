@@ -17,7 +17,10 @@
             "/": "/register"
           },
           {
-            "/": "/lobby"
+            "/": "/lobby/*",
+            "?": {
+              "category": "*"
+            }
           },
           {
             "/": "/gold-coins"
