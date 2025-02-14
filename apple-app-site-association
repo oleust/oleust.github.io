@@ -60,6 +60,9 @@
           },
           {
             "/": "/hc/*"
+          },
+          {
+            "/": "/reset-password-manually"
           }
         ]
       }
